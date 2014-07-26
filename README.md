@@ -9,7 +9,7 @@ This repository contains the course project for the Getting and Cleaning Data co
 * A code book for the tidy data set called `CodeBook.md`
 
 ###Using run_analysis.R
-This script processes a subset of the data available from the Human Activity Recognition Using Smartphones Data Set.
+This script processes a subset of the data available from the Human Activity Recognition Using Smartphones Data Set.  The script assumes that the data is contained in a subdirectory of your working directory.
 
 The site of the original data:
 * http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
