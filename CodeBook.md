@@ -92,7 +92,7 @@
 * If the column name contains "std", this contains the standard deviation
 * NOTE: The 3-axial raw signals are separated into separate X, Y and Z signals
 
-###Transformations
+##Transformations
 1. Computed the indexes of the columns of interest (only mean() and std() values)
 1. Merged the subject, activity and variable data of each set into a single data frame
 1. Subset each data set by the desired columns' indexes
