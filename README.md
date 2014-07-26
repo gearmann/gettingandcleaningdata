@@ -22,11 +22,3 @@ Example Usage:
 
 > write.table(DT, "tidy_data.txt", sep=",", row.name=FALSE)
 
-###Transformations
-1. Computes the indexes of the columns of interest (only mean() and std() values)
-1. Merges the subject, activity and variable data of each set into a single data frame
-1. Subsets each data set by the desired columns' indexes
-1. Applies descriptive names for each activity
-1. Merges the test and training data sets into one data set
-1. Fixes up the variable names in the data set to be more descriptive
-1. Computes the mean of every variable, grouping by Activity and Subject
