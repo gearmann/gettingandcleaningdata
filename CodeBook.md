@@ -87,7 +87,7 @@
 * If the column name contains "Acc", this contains the accelerometer signal
 * If the column name contains "Gyro", this contains the gyroscope signal
 * If the column name contains "Jerk", this was derived in time from the body linear acceleration and angular velocity
-* If the column name contains "Mag", this contains the magnitude of these three-dimensional signals were calculated using the Euclidean norm
+* If the column name contains "Mag", this magnitude of the three-dimensional signals was calculated using the Euclidean norm
 * If the column name contains "mean", this contains the mean value
 * If the column name contains "std", this contains the standard deviation
 * NOTE: The 3-axial raw signals are separated into separate X, Y and Z signals
